@@ -85,5 +85,3 @@ This Sample Application uses SmartfloMeet iOS Toolkit to communicate with Smartf
 
 * Documentation: https://doc.smartflomeet.ttns.in/docs/references/sdks/video-sdk/ios-sdk/index
 * Download Toolkit: https://doc.smartflomeet.ttns.in/developer/video-api/client-api/ios-toolkit/
-
-
